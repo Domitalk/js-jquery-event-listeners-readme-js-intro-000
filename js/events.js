@@ -9,6 +9,8 @@ function getIt() {
 $(document).ready(function(){
 
 getIt();
+
+
 //call function here
   
 });
